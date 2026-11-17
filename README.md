@@ -71,6 +71,7 @@ Estou aberto a trocar conhecimentos, aprender com outros desenvolvedores e conhe
 
 [![Email](https://img.shields.io/badge/Email-Entre%20em%20contato-222?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gustavofelix.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gustavofelix--dev-222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavofelix-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Felix-222?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-felix-377250447/)
 
 </div>
 
